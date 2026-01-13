@@ -1,0 +1,17 @@
+# Data Manipulation & Viz
+pandas>=1.3.0
+numpy>=1.20.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Machine Learning
+scikit-learn>=1.0.0
+xgboost>=1.5.0
+lightgbm>=3.3.0
+
+# Deep Learning
+torch>=1.10.0
+torchvision>=0.11.0
+
+# Utilities
+joblib>=1.1.0
