@@ -1,0 +1,5 @@
+{
+  "threshold": 0.05,
+  "selection_method": "OOF cross-validation",
+  "objective": "Maximize F2 (recall-focused)"
+}
