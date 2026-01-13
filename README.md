@@ -150,7 +150,7 @@ We have no idea:
 - **Temporal resolution** - Instantaneous readings? Time averages? Min/max over a process step?
 - **Which process step** - Etching? Deposition? Cleaning? Lithography?
 
-This matters because **the model is essentially flying blind**. It found correlations between anonymous numbers and defects, but it has no understanding of causation or physics. The 99%+ recall we achieved is significant, but it's likely based on:
+This matters because **the model is essentially flying blind**. It found correlations between anonymous numbers and defects, but it has no understanding of causation or physics.
 - **Gross threshold violations** - When sensors cross critical limits
 - **Statistical patterns** - Correlations that happen to work on this specific dataset
 - **Unknown confounders** - Maybe sensor_42 is highly correlated with a true root cause we can't see
